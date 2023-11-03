@@ -12,3 +12,10 @@ Lista de Tarefas:
 - [x] Criar a página principal
 - [ ] Criar página da Loja
 - [ ] Finalizar Reunião
+
+Exemplo | Valor
+------------------
+ 1      |    4
+ 3      |    2
+ 5      |    3
+        
