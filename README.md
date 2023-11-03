@@ -10,5 +10,5 @@ Adicionar mais uma linha.
 Lista de Tarefas:
 
 - [x] Criar a página principal
-- [] Criar página da Loja
-- [] Finalizar Reunião
+- [ ] Criar página da Loja
+- [ ] Finalizar Reunião
