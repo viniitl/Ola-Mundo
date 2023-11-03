@@ -12,3 +12,7 @@ Lista de Tarefas:
 - [x] Criar a página principal
 - [ ] Criar página da Loja
 - [ ] Finalizar Reunião
+
+Nome|Dia|Mes
+---
+Vinicius|11|4
