@@ -13,6 +13,6 @@ Lista de Tarefas:
 - [ ] Criar página da Loja
 - [ ] Finalizar Reunião
 
-Nome | Dia | Mes
----|---|---
-Vinicius | 11 | 4
+Nome | Dia | Mes | link |
+---|---|---|---|
+Vinicius | 11 | 4 | https://github.com/viniitl
