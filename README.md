@@ -13,6 +13,6 @@ Lista de Tarefas:
 - [ ] Criar página da Loja
 - [ ] Finalizar Reunião
 
-Nome |Dia |Mes
+Nome | Dia | Mes
 ---|---|---
-Vinicius |11| 4
+Vinicius | 11 | 4
